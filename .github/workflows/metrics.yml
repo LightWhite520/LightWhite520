@@ -38,7 +38,7 @@ jobs:
           plugin_lines_sections: base, repositories
 
           # 贡献趋势
-          plugin_activity: yes
+          plugin_activity: no
 
           # 关闭 stars
           plugin_stars: no
