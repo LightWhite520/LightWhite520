@@ -1,7 +1,10 @@
-## LightWhite // Kotlin & Native Explorer
+# LightWhite
 
-> Kotlin / Native / Low-level / System Design  
-> Exploring the boundary between JVM and bare metal.
-> "From JVM bytecode to bare metal."
+```kotlin
+class Developer(
+    val focus = listOf("Kotlin", "Native", "Low-level", "System Design"),
+    val philosophy = "From JVM bytecode to bare metal."
+)
+```
 
 ![Metrics](./github-metrics.svg)
