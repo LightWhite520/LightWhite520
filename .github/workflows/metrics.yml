@@ -23,8 +23,10 @@ jobs:
           config_animations: yes
           config_octicon: yes
 
-          repositories: yes
-          repositories_batch: 6
+          repositories:
+            - LightWhite520/Illusion
+            - plos-clan/CoolPotOS-kotlin
+            - LightWhite520/alphago
 
           plugin_languages: yes
           plugin_languages_limit: 8
