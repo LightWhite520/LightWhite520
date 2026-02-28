@@ -39,7 +39,6 @@ jobs:
 
           plugin_repositories: yes
           plugin_repositories_sort: updated
-          plugin_activity: yes
           plugin_stars: no
 
           plugin_topics: yes
