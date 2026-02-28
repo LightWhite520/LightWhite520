@@ -22,30 +22,25 @@ jobs:
           config_display: large
           config_animations: yes
           config_octicon: yes
+          config_theme: dark
 
-          # 语言统计（含私有）
           plugin_languages: yes
           plugin_languages_limit: 8
           plugin_languages_sections: most-used
           plugin_languages_indepth: yes
+          plugin_languages_sort: lines
+          plugin_languages_categories: programming
 
-          # 提交日历
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
 
-          # 代码行统计（含私有）
           plugin_lines: yes
           plugin_lines_sections: base, repositories
 
-          # 贡献趋势
-          plugin_activity: no
+          plugin_repositories: yes
+          plugin_repositories_sort: commits
 
-          # 关闭 stars
           plugin_stars: no
 
-          # 技术主题
           plugin_topics: yes
           plugin_topics_limit: 12
-
-          # 终端风
-          config_theme: dark
