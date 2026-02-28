@@ -15,13 +15,16 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           user: LightWhite520
-          template: terminal
+          template: classic
           base: header, activity, repositories, metadata
 
           config_timezone: Asia/Shanghai
           config_display: large
           config_animations: yes
           config_octicon: yes
+
+          repositories: yes
+          repositories_batch: 6
 
           plugin_languages: yes
           plugin_languages_limit: 8
@@ -35,8 +38,6 @@ jobs:
           plugin_lines: yes
           plugin_lines_sections: base, repositories
 
-          plugin_repositories: yes
-          plugin_repositories_sort: updated
           plugin_stars: no
 
           plugin_topics: yes
