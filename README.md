@@ -6,7 +6,7 @@
  * System Architect | AGI Explorer
  * Location: Shenzhen, CN
  */
-@Status(age = 18, description = "A Senior High School Student")
+@Status(age = 18, description = "A university student")
 object LightWhite : Developer {
     val language = setOf(
         "Chinese", "English"
@@ -17,11 +17,11 @@ object LightWhite : Developer {
     )
 
     val core = setOf(
-        "JVM", "JNI"
+        "JVM", "KMP", "JNI"
     )
 
     val ecosystem = setOf(
-        "Spring Boot 3", "Ktor", "MySQL", "Android"
+        "Spring Boot 4", "Ktor", "Compose", "KMP", "Android", "iOS"
     )
 }
 ```
