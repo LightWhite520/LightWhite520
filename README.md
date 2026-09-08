@@ -6,7 +6,7 @@
  * System Architect | AGI Explorer
  * Location: Shenzhen, CN
  */
-@Status(age = 18, description = "A university student")
+@Status(age = 18, description = "A college student")
 object LightWhite : Developer {
     val language = setOf(
         "Chinese", "English"
