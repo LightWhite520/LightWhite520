@@ -138,7 +138,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    2.06m added, 141k removed
+                                    2.19m added, 160k removed
                                 </div>
                             </section>
                             <section>
@@ -190,6 +190,12 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
+                            <span class="diff-handle">LightWhite520/polarix-client</span>
+                        </div>
+                        <div class="field">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
                             <span class="diff-handle">LightWhite520/wordnest</span>
                         </div>
                         <div class="field">
@@ -197,12 +203,6 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <span class="diff-handle">LightWhite520/polarix-server</span>
-                        </div>
-                        <div class="field">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <span class="diff-handle">LightWhite520/campus-share</span>
                         </div>
                     </section>
                     <section>
@@ -215,6 +215,18 @@
                             <div class="diff-stats">
                                 <span class="added"> +2.04m</span>
                                 <span class="deleted">  -140k</span>
+                            </div>
+                            <span> </span>
+                        </div>
+                        <div class="field">
+                            <div class="diff-box added"></div>
+                            <div class="diff-box added"></div>
+                            <div class="diff-box added"></div>
+                            <div class="diff-box added"></div>
+                            <div class="diff-box deleted"></div>
+                            <div class="diff-stats">
+                                <span class="added">  +135k</span>
+                                <span class="deleted"> -18.7k</span>
                             </div>
                             <span> </span>
                         </div>
@@ -242,18 +254,6 @@
                             </div>
                             <span> </span>
                         </div>
-                        <div class="field">
-                            <div class="diff-box added"></div>
-                            <div class="diff-box added"></div>
-                            <div class="diff-box added"></div>
-                            <div class="diff-box added"></div>
-                            <div class="diff-box deleted"></div>
-                            <div class="diff-stats">
-                                <span class="added"> +1.91k</span>
-                                <span class="deleted">   -177</span>
-                            </div>
-                            <span> </span>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -267,20 +267,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 3.72mb of code in 518 edited files across 71 commits</small>
+                <small>estimation from 4.14mb of code in 742 edited files across 82 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="920" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="655.2052575529759" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="655.2052575529759" y="0" width="87.7839583327828" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="742.9892158857588" y="0" width="70.85609642018143" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="813.8453123059402" y="0" width="62.7653417964363" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="876.6106541023765" y="0" width="23.704598244839822" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="900.3152523472163" y="0" width="14.759306286285069" height="8" fill="#012456"/>
-                    <rect mask="url(#languages-bar)" x="915.0745586335014" y="0" width="2.562396446342359" height="8" fill="#384d54"/>
-                    <rect mask="url(#languages-bar)" x="917.6369550798438" y="0" width="2.3630449201563315" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="745.5623694506475" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="745.5623694506475" y="0" width="57.752156373242286" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="803.3145258238898" y="0" width="46.61549146534286" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="849.9300172892326" y="0" width="41.292667852892876" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="891.2226851421256" y="0" width="15.595009505166344" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="906.8176946472919" y="0" width="9.941908526138556" height="8" fill="#012456"/>
+                    <rect mask="url(#languages-bar)" x="916.7596031734305" y="0" width="1.6857740647603021" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="918.4453772381908" y="0" width="1.5546227618093107" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2356,7 +2356,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 Nov 2026, 12:59:40 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0-beta</span>
+                <span>Last updated 17 Nov 2026, 05:41:00 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
